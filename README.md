@@ -100,4 +100,4 @@ forge script script/Deploy.s.sol:DeployShipped \
 
 ## Built by
 
-<TEAM / BinLawal>
+ BinLawal
