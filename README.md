@@ -63,7 +63,7 @@ lives in a database you could quietly edit.
 ## Running locally
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/lawalal079/Shipped
 cd shipped-app
 npm install
 cp .env.example .env
